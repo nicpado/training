@@ -1,7 +1,7 @@
 # training
 training (python, "data science", etc) repository
 
-<<___MASTER BRANCH COMMIT>>
+<<___MASTER BRANCH COMMIT!!!!>>
 this is another file to merge (master commit)
 
 this is the master commit, stop
